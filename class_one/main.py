@@ -1,1 +1,7 @@
 print("this is first p")
+
+x = 10
+y= 30
+
+sum= x + y
+print(sum)
